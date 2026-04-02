@@ -25,7 +25,7 @@ export function ThreadListSidebar({
             <SidebarMenuItem>
               <SidebarMenuButton size="lg" asChild>
                 <Link
-                  href="https://assistant-ui.com"
+                  href="https://github.com/akshaygadgil10/Chat-App"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -34,7 +34,7 @@ export function ThreadListSidebar({
                   </div>
                   <div className="aui-sidebar-header-heading mr-6 flex flex-col gap-0.5 leading-none">
                     <span className="aui-sidebar-header-title font-semibold">
-                      assistant-ui
+                      Chat App
                     </span>
                   </div>
                 </Link>
@@ -52,7 +52,7 @@ export function ThreadListSidebar({
           <SidebarMenuItem>
             <SidebarMenuButton size="lg" asChild>
               <Link
-                href="https://github.com/assistant-ui/assistant-ui"
+                href="https://github.com/akshaygadgil10/Chat-App"
                 target="_blank"
                 rel="noopener noreferrer"
               >
